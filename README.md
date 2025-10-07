@@ -51,8 +51,7 @@ Increase accuracy by adding more drone and background images.
 The YOLOv11 model used in this project was trained for 50 epochs on a custom dataset containing over 40,000 images of drones captured from various angles, lighting conditions, and backgrounds. The dataset also included negative samples (non-drone images) to help the model distinguish drones from other objects and reduce false detections. This extensive training enabled the model to achieve high accuracy and strong generalization performance for real-time drone detection tasks."""
 
  License
-This project is open for educational and personal use.
-
+This project is open for educational and personal use.the trained model is in the github named best.pt or use link->https://github.com/daya-cpu/DRONE-recognition-trained-/blob/main/best.pt Please use this model responsibly
 
 
 
